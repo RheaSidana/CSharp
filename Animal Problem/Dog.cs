@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ass2Ques2
+namespace AnimalProblem
 {
     class Dog : Animal
     {
