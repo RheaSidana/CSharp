@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ass2Quse1
+namespace ShapeProblem
 {
     class Program
     {
