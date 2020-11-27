@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ass2Quse1
+namespace ShapeProblem
 {
     class Triangle : Shape
     {
