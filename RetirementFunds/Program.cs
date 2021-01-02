@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InternalPracticalQ1
+namespace Funds
 {
     class Program
     {
