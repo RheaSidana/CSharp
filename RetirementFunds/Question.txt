@@ -1,0 +1,22 @@
+Suppose, your organization just start to think its employees future. 
+In the end of 2018, almost 31 December 2018, the board of directors decided to provide the sufficient funds at the end of the retirements of their employee. 
+The funds will be get by the employees after the age of 60 Years. 
+To achieve this extent, The Directors decided to give 10% bonus of their yearly salary or 30,000 INR, 
+whichever is minimum, in future funds without deduction of employees’ salary at the end of every year (in December). 
+Company also decided that the growth of salary will be 5% every year. The minimum monthly salary is 15,000 INR p.m.
+
+Problem: Identify and design the classes for the above mentioned problem. Afterward, develop a program in C# to 
+calculate the funds at the end of retirement of an employee.
+Additional Information:
+
+
+
+
+Where
+f0: previous year fund f1: current year fund
+Input: First line accept the monthly salary, second line will accept the age of employee during the join this company, third line accept the age of retirement.
+15000
+25
+60
+Output: shows only the gross funds
+1005722.2
