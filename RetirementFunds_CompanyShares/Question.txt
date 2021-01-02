@@ -1,0 +1,20 @@
+Suppose, your organization just start to think its employees future. 
+In the end of 2018, almost 31 December 2018, the board of directors decided to provide the 
+sufficient funds at the end of the retirements of their employee. 
+The funds will be get by the employees after the age of 60 Years. 
+To achieve this extent, The Directors decided to give 0.002% shares of company values as 
+bonus to their employees in future funds without deduction of employees’ salary at the 
+end of every year (in December). 
+The Company’s current assets value is 20.2 million INR. 
+It is predicted that the 5% growth of company’s assets every year. 
+The Indian govt. also provides additional 1% per year cumulative aid on shares.
+
+Problem: Identify and design the classes for the above mentioned problem. 
+Afterward, develop a program in C# to calculate the funds at the end of retirement of an employee.
+
+
+Input: First line accept the age of employee during the join this company, second line accept the age of retirement.
+25
+60
+Output: shows only the gross funds
+4393982.8
