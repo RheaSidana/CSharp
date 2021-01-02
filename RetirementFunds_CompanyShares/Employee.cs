@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace InternalPracticalQ2
+namespace Funds
 {
     class Employee
     {
